@@ -1,0 +1,14 @@
+C:\Users\natal\Documents\CSharp8\andreacorso\bin\Debug\net8.0\andreacorso.exe
+C:\Users\natal\Documents\CSharp8\andreacorso\bin\Debug\net8.0\andreacorso.deps.json
+C:\Users\natal\Documents\CSharp8\andreacorso\bin\Debug\net8.0\andreacorso.runtimeconfig.json
+C:\Users\natal\Documents\CSharp8\andreacorso\bin\Debug\net8.0\andreacorso.dll
+C:\Users\natal\Documents\CSharp8\andreacorso\bin\Debug\net8.0\andreacorso.pdb
+C:\Users\natal\Documents\CSharp8\andreacorso\obj\Debug\net8.0\andreacorso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Documents\CSharp8\andreacorso\obj\Debug\net8.0\andreacorso.AssemblyInfoInputs.cache
+C:\Users\natal\Documents\CSharp8\andreacorso\obj\Debug\net8.0\andreacorso.AssemblyInfo.cs
+C:\Users\natal\Documents\CSharp8\andreacorso\obj\Debug\net8.0\andreacorso.csproj.CoreCompileInputs.cache
+C:\Users\natal\Documents\CSharp8\andreacorso\obj\Debug\net8.0\andreacorso.dll
+C:\Users\natal\Documents\CSharp8\andreacorso\obj\Debug\net8.0\refint\andreacorso.dll
+C:\Users\natal\Documents\CSharp8\andreacorso\obj\Debug\net8.0\andreacorso.pdb
+C:\Users\natal\Documents\CSharp8\andreacorso\obj\Debug\net8.0\andreacorso.genruntimeconfig.cache
+C:\Users\natal\Documents\CSharp8\andreacorso\obj\Debug\net8.0\ref\andreacorso.dll

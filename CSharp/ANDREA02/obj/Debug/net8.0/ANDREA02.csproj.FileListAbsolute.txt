@@ -1,0 +1,14 @@
+C:\Users\natal\Documents\CSharp8\ANDREA02\obj\Debug\net8.0\ANDREA02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Documents\CSharp8\ANDREA02\obj\Debug\net8.0\ANDREA02.AssemblyInfoInputs.cache
+C:\Users\natal\Documents\CSharp8\ANDREA02\obj\Debug\net8.0\ANDREA02.AssemblyInfo.cs
+C:\Users\natal\Documents\CSharp8\ANDREA02\obj\Debug\net8.0\ANDREA02.csproj.CoreCompileInputs.cache
+C:\Users\natal\Documents\CSharp8\ANDREA02\bin\Debug\net8.0\ANDREA02.exe
+C:\Users\natal\Documents\CSharp8\ANDREA02\bin\Debug\net8.0\ANDREA02.deps.json
+C:\Users\natal\Documents\CSharp8\ANDREA02\bin\Debug\net8.0\ANDREA02.runtimeconfig.json
+C:\Users\natal\Documents\CSharp8\ANDREA02\bin\Debug\net8.0\ANDREA02.dll
+C:\Users\natal\Documents\CSharp8\ANDREA02\bin\Debug\net8.0\ANDREA02.pdb
+C:\Users\natal\Documents\CSharp8\ANDREA02\obj\Debug\net8.0\ANDREA02.dll
+C:\Users\natal\Documents\CSharp8\ANDREA02\obj\Debug\net8.0\refint\ANDREA02.dll
+C:\Users\natal\Documents\CSharp8\ANDREA02\obj\Debug\net8.0\ANDREA02.pdb
+C:\Users\natal\Documents\CSharp8\ANDREA02\obj\Debug\net8.0\ANDREA02.genruntimeconfig.cache
+C:\Users\natal\Documents\CSharp8\ANDREA02\obj\Debug\net8.0\ref\ANDREA02.dll

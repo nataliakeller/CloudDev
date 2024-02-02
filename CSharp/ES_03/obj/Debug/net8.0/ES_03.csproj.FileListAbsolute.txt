@@ -1,0 +1,14 @@
+C:\Users\natal\Documents\CSharp8\ES_03\bin\Debug\net8.0\ES_03.exe
+C:\Users\natal\Documents\CSharp8\ES_03\bin\Debug\net8.0\ES_03.deps.json
+C:\Users\natal\Documents\CSharp8\ES_03\bin\Debug\net8.0\ES_03.runtimeconfig.json
+C:\Users\natal\Documents\CSharp8\ES_03\bin\Debug\net8.0\ES_03.dll
+C:\Users\natal\Documents\CSharp8\ES_03\bin\Debug\net8.0\ES_03.pdb
+C:\Users\natal\Documents\CSharp8\ES_03\obj\Debug\net8.0\ES_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Documents\CSharp8\ES_03\obj\Debug\net8.0\ES_03.AssemblyInfoInputs.cache
+C:\Users\natal\Documents\CSharp8\ES_03\obj\Debug\net8.0\ES_03.AssemblyInfo.cs
+C:\Users\natal\Documents\CSharp8\ES_03\obj\Debug\net8.0\ES_03.csproj.CoreCompileInputs.cache
+C:\Users\natal\Documents\CSharp8\ES_03\obj\Debug\net8.0\ES_03.dll
+C:\Users\natal\Documents\CSharp8\ES_03\obj\Debug\net8.0\refint\ES_03.dll
+C:\Users\natal\Documents\CSharp8\ES_03\obj\Debug\net8.0\ES_03.pdb
+C:\Users\natal\Documents\CSharp8\ES_03\obj\Debug\net8.0\ES_03.genruntimeconfig.cache
+C:\Users\natal\Documents\CSharp8\ES_03\obj\Debug\net8.0\ref\ES_03.dll
