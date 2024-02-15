@@ -1,8 +1,0 @@
-dotnet new console --use-program-main # crea il main
-dotnet run
-dotnet build                           #compila
-
-aggiungere funzionalità all'applicazione
-www.nuget.org/packages  
-
-dotnet --list-sdks
